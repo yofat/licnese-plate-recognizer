@@ -23,3 +23,8 @@ And Then , You can really to start about your using.
 I wrote two types ver. one is C# and the other is Python, because I don't know which type that the final exam asked us to use which way to write.
 
 Good Luck, anyone who see this's students.
+
+## OCR 
+
+If you need OCR to recognize the word on pictures , you have to use it. If you delete the project , you have to wait 48 hr.
+https://portal.azure.com/#create/Microsoft.CognitiveServicesComputerVision

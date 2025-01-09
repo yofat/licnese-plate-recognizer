@@ -7,7 +7,7 @@ https://www.c-sharpcorner.com/article/number-plate-recognition-with-azure-custom
 
 ### First, you have to sign up an education ver. Azure account, And download Visual Studio IDE.
 
-Visual Studio IDE：https://visualstudio.microsoft.com/zh-hant/vs/
+Visual Studio IDE：https://visualstudio.microsoft.com/zh-hant/vs/ \n
 Azure：https://portal.azure.com/?microsoft_azure_marketplace_ItemHideKey=microsoft_azure_cognitiveservices_customvision#create/Microsoft.CognitiveServicesCustomVision
 
 ### Next, this is the instruction manual about how to use it
